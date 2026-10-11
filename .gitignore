@@ -1,0 +1,10 @@
+.vs/
+Debug/
+Release/
+x64/
+ipch/
+*.aps
+*.user
+*.suo
+*.sdf
+*.opensdf
